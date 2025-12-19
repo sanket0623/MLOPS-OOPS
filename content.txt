@@ -1,9 +1,21 @@
 1. Class and Object
 2. Class has data/Attribute and it has function/method
 3. Why python is called OOP language? - Everything in python is object (int. str, list)
-4. Why python is called OOP language? - Eveything in python is object (int. str, list)
-5. OOPS advantage
+
+4. OOP advantage
   - You can create you own datatype
   - Code usability
   - Debugging
   - Collab
+
+5. End to End project (Chatbook)
+   - function (without class) vs method (with class object)
+   - Magic methods (__init__)
+   - self
+   - Create attribute outside the class
+   - Encapsulation
+   - Getter & Setter
+   - static methods
+   
+6. Inheritance:
+   -
